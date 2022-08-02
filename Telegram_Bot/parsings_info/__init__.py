@@ -1,0 +1,3 @@
+from parsings_info import joke_parser
+from parsings_info import weather_parser
+from parsings_info import horoscope_parser
